@@ -1,3 +1,4 @@
+// 커밋 확인용 주석
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 

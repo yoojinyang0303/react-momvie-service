@@ -1,3 +1,4 @@
+// 커밋 확인용 주석
 import { useState, useEffect } from "react";
 import Movie from "../components/Movie";
 
