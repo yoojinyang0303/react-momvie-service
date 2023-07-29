@@ -1,4 +1,3 @@
-// 커밋 확인용 주석
 import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 
